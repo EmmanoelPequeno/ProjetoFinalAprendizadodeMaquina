@@ -1,2 +1,2 @@
-# ProjetoFinal_Machine_Leraning_ILUM
-Repositório destinado ao projeto final de Machine Learning do 2 semestre da ILUM
+# Projeto de conclusão de Disciplina: Aprendizado de Máquina
+Este repositório é destinado a guardar os arquivos utilizados e desenvolvidos no projeto de consclusão da disciplina "Aprendizado de Máquina" do segundo semestre do Bacharel em Ciência e Tecnologia da Ilum - Escola de Ciência do Centro Nacional de Pesquisa em Energia e Materiais. O projeto foi desenvolvido com a integração das seguintes duplas formadas no inicio do semestre: "Aliança BA-AL", composta pelos estudantes "Mayllon Emmanoel Pequeno Santos Silva" e "Samuel Soares de Araújo", e pela dupla "Nemphis & Nempharey", composta pelos estudantes "Davi José de Araújo Pereira" e "Diogo Pereira de Lima Carvalho", consistindo numa análise de um conjunto de dados de importantes propriedades de materiais Supercondutores tendo como alvo a predição de sua temperatura crítica.
