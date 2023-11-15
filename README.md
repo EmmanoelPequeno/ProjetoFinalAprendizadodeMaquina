@@ -6,20 +6,20 @@ Em um primeiro momento foi formulado um notebook de preparação dos dados com b
 
 Modelos abordados durante o projeto: RANSACRegressor, Regressão Linear, k-NN, Baseline, Árvore de decisão, floresta aleatória, HuberRegressor, Theil-SenRegressor, RidgeRegressor
 
-Notebook 1 (Notebook_1_Preparacao_Dados.ipynb): Contém a análise dos atributos, plots de esplhamento, calor e histogramas, seleção da features pelo método VIF, criação do novo conjunto de daos com atributos reduzidos
+Notebook 1 (Notebook_1_Preparacao_Dados.ipynb): Contém a análise dos atributos, plots de esplhamento, calor e histogramas, seleção da features pelo método VIF, criação do novo conjunto de daos com atributos reduzidos |
 Autores: Davi J.A. Pereira, Diogo P. de L. Carvalho, Mayllon E.P.S. Silva, Samuel S. de Araújo
 
-Notebook 2 (xxxxxxx.ipnyb): 
-<br>Autor: Diogo P. de L. Carvalho
+Notebook 2 (xxxxxxx.ipnyb): descrição |
+Autor: Diogo P. de L. Carvalho
 
-Notebook 3 (xxxxxxx.ipnyb): 
-<br>Autor: Samuel S. de Araújo
+Notebook 3 (xxxxxxx.ipnyb): descrição |
+Autor: Samuel S. de Araújo
 
-Notebook 4 (Notebook_4_RANSAC_knn_RG.ipynb): Contém a análise de um modelo robusto (RANSAC) com suas versões normalização padrão pelo StandardScaler e por redução de dimensionalidade com PCA em comparação com modelos de Regressão Linear e kNN.
-<br>Autor: Mayllon E.P.S. Silva
+Notebook 4 (Notebook_4_RANSAC_knn_RG.ipynb): Contém a análise de um modelo robusto (RANSAC) com suas versões normalização padrão pelo StandardScaler e por redução de dimensionalidade com PCA em comparação com modelos de Regressão Linear e kNN. |
+Autor: Mayllon E.P.S. Silva
 
-Notebook 5 (Notebook_5_Huber_TheilSen.ipnyb): Contém tambpem a análise e explicação do funcionamento de dois modelos robustos (Huber Regressor e Theil-Sen Regressor) e algumas comparações com o modelo de Regressão Linear
-<br>Autor: Davi J.A. Pereira
+Notebook 5 (Notebook_5_Huber_TheilSen.ipnyb): Contém tambpem a análise e explicação do funcionamento de dois modelos robustos (Huber Regressor e Theil-Sen Regressor) e algumas comparações com o modelo de Regressão Linear. |
+Autor: Davi J.A. Pereira
 
 Algumas orientações ao leitor:
 <ul>
