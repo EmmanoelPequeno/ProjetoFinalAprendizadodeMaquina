@@ -18,4 +18,10 @@ Autor: Mayllon E.P.S. Silva
 Notebook 5 (xxxxxxx.ipnyb):
 Autor: Davi J.A. Pereira
 
+Algumas orientações ao leitor:
+<ul>
+  <li>O notebook de preparação de dados é relativamente extenso e o processo de seleção de aributos pelo método VIF demorado. Com isso, o resultado desse processo está no arquivo CSV "Superconductors_dataset_2", não necessitando uma nova execução pelo usuário </li>
+  <li>O arquivo "009-Dataset.csv" é um arquivo ditádito que só será utilizado nos notebooks em que serão trabalhados modelos robustos (RANSAC, Huber Regressor e Theil-Sen Regressor), não necessitando sua utilização nos demais notebooks </li>
+</ul>
+
 Conclusão:
