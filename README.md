@@ -10,23 +10,23 @@ Notebook 1 (Notebook_1_Preparacao_Dados.ipynb): Contém a análise dos atributos
 Autores: Davi J.A. Pereira, Diogo P. de L. Carvalho, Mayllon E.P.S. Silva, Samuel S. de Araújo
 
 Notebook 2 (xxxxxxx.ipnyb): 
-Autor: Diogo P. de L. Carvalho
+<br>Autor: Diogo P. de L. Carvalho
 
 Notebook 3 (xxxxxxx.ipnyb): 
-Autor: Samuel S. de Araújo
+<br>Autor: Samuel S. de Araújo
 
 Notebook 4 (Notebook_4_RANSAC_knn_RG.ipynb): Contém a análise de um modelo robusto (RANSAC) com suas versões normalização padrão pelo StandardScaler e por redução de dimensionalidade com PCA em comparação com modelos de Regressão Linear e kNN.
-Autor: Mayllon E.P.S. Silva
+<br>Autor: Mayllon E.P.S. Silva
 
 Notebook 5 (Notebook_5_Huber_TheilSen.ipnyb): Contém tambpem a análise e explicação do funcionamento de dois modelos robustos (Huber Regressor e Theil-Sen Regressor) e algumas comparações com o modelo de Regressão Linear
-Autor: Davi J.A. Pereira
+<br>Autor: Davi J.A. Pereira
 
 Algumas orientações ao leitor:
 <ul>
   <li>O notebook de preparação de dados é relativamente extenso e o processo de seleção de aributos pelo método VIF demorado. Com isso, o resultado desse processo está no arquivo CSV "Superconductors_dataset_2", não necessitando uma nova execução pelo usuário </li>
   <li>O arquivo "009-Dataset.csv" é um arquivo ditádito que só será utilizado nos notebooks em que serão trabalhados modelos robustos (RANSAC, Huber Regressor e Theil-Sen Regressor), não necessitando sua utilização nos demais notebooks </li>
   <li> O leitor não necessariamente precisa seguir a ordem dos notebooks, porém, é altamente recomendado que acesse "Notebook_4_RANSAC_knn_RG.ipynb" antes do "Notebook_5_Huber_TheilSen.ipnyb"</li>
-  <li> As imagens "Tabela_var_deriva" e "Tabela_var_principais" serão apenas utilizadas no notebook de preparação dos dados e análise exploratória.<\li>
+  <li> As imagens "Tabela_var_deriva" e "Tabela_var_principais" serão apenas utilizadas no notebook de preparação dos dados e análise exploratória.</li>
   <li> As imagens "Brasao_BA-AL" e "Brasao_irmaos_magos" não é utilizada em nenhum dos notebook e serve apenas como recordação dos brasões que utilizamos em nosso notebooks durante o decorrer da disciplina</li>
 </ul>
 
