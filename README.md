@@ -15,7 +15,7 @@ Autor: Samuel S. de Araújo
 Notebook 4 (xxxxxxx.ipnyb): 
 Autor: Davi J.A. Pereira
 
-Notebook 5 (xxxxxxx.ipnyb): 
+Notebook 5 (Notebook_5_RANSAC_knn_RG.ipynb): Contém a análise de um modelo robusto (RANSAC) com suas versões de dimensionalidade reduzida pelo StandardScaler e por transformação linear com PCA em comparação com modelos de Regressão Linear e kNN.
 Autor: Mayllon E.P.S. Silva
 
 Conclusão:
