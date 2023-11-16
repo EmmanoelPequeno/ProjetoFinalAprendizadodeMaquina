@@ -16,7 +16,7 @@ Autores: Davi J.A. Pereira, Diogo P. de L. Carvalho, Mayllon E.P.S. Silva, Samue
 Notebook 2 (xxxxxxx.ipnyb): descrição |
 Autor: Diogo P. de L. Carvalho
 
-Notebook 3 (xxxxxxx.ipnyb): descrição |
+Notebook 3 (Notebook_3_RIDGE.ipnyb): Contém a análise do modelo RIDGE com a normalização padrão pelo StandardScaler, com auxílio do método PCA para didática.
 Autor: Samuel S. de Araújo
 
 Notebook 4 (Notebook_4_RANSAC_knn_RG.ipynb): Contém a análise de um modelo robusto (RANSAC) com suas versões normalização padrão pelo StandardScaler e por redução de dimensionalidade com PCA em comparação com modelos de Regressão Linear e k-NN. |
