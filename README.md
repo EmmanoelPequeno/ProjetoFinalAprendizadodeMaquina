@@ -2,7 +2,7 @@
 
 *"Desde o nascer do sol no nordeste do país até se pôr em terras paulistas, nenhum bug de código sucederá a nossa presença. Todo erro de sintaxe há de penar quando o poder da Dualidade Mago-Cavaleiro enfrentar!" - (Adaptado do juramento da Aliança BA-AL, por sua vez adaptado do juramento da tropa dos lanternas verde)*
 
-Este repositório é destinado a guardar os arquivos utilizados e desenvolvidos no projeto de consclusão da disciplina "Aprendizado de Máquina" do segundo semestre do Bacharel em Ciência e Tecnologia da Ilum - Escola de Ciência do Centro Nacional de Pesquisa em Energia e Materiais. O projeto foi desenvolvido com a integração das seguintes duplas formadas no inicio do semestre: "Aliança BA-AL", composta pelos estudantes "Mayllon Emmanoel Pequeno Santos Silva" e "Samuel Soares de Araújo", e pela dupla "Nemphis & Nempharey", composta pelos estudantes "Davi José de Araújo Pereira" e "Diogo Pereira de Lima Carvalho", que juntas formam a "Dualidade Mago-Caveleiro". O projeto consiste numa análise de um conjunto de dados de importantes propriedades de materiais Supercondutores e o teste de diversos modelos lineares tendo como alvo a predição de sua temperatura crítica.
+Este repositório é destinado a guardar os arquivos utilizados e desenvolvidos no projeto de consclusão da disciplina "Aprendizado de Máquina" do segundo semestre do Bacharel em Ciência e Tecnologia da Ilum - Escola de Ciência do Centro Nacional de Pesquisa em Energia e Materiais (CNPEM). O projeto foi desenvolvido com a integração das seguintes duplas formadas no inicio do semestre: "Aliança BA-AL", composta pelos estudantes "Mayllon Emmanoel Pequeno Santos Silva" e "Samuel Soares de Araújo", e pela dupla "Nemphis & Nempharey", composta pelos estudantes "Davi José de Araújo Pereira" e "Diogo Pereira de Lima Carvalho", que juntas formam a "Dualidade Mago-Caveleiro". O projeto consiste numa análise de um conjunto de dados de importantes propriedades de materiais Supercondutores e o teste de diversos modelos lineares tendo como alvo a predição de sua temperatura crítica.
 
 Supercondutores são materiais que, quando resfriados abaixo de uma temperatura crítica específica, exibem uma propriedade notável chamada supercondutividade. A supercondutividade é um fenômeno fascinante com aplicações práticas e implicações significativas para a tecnologia e a pesquisa científica. Apesar dos desafios técnicos, os supercondutores continuam a ser uma área de intensa pesquisa e desenvolvimento. Em nosso dataset, atributos como "Massa atômica", "Raio Atômico", "Calor de fusão", dentre outros, serão impotantes para a previsão dos valores da temperatura crítica do supercondutor.
 
@@ -13,7 +13,7 @@ Modelos abordados durante o projeto: RANSACRegressor, Regressão Linear, k-NN, B
 Notebook 1 (Notebook_1_Preparacao_Dados.ipynb): Contém a análise dos atributos, plots de esplhamento, calor e histogramas, seleção da features pelo método VIF, criação do novo conjunto de dados com atributos reduzidos |
 Autores: Davi J.A. Pereira, Diogo P. de L. Carvalho, Mayllon E.P.S. Silva, Samuel S. de Araújo
 
-Notebook 2 (xxxxxxx.ipnyb): descrição |
+Notebook 2 (Notebook_2_Baseline_Decision-Rree_Random-Forest.ipnyb): Contém a análise e explicação do modelo <i>baseline</i>, além também dos modelos de árvore de decisão e floresta aleatória a partir da otimização de hiperparâmetros pelo <code>optuna</code>.
 Autor: Diogo P. de L. Carvalho
 
 Notebook 3 (Notebook_3_RIDGE.ipynb): Contém a análise do modelo RIDGE com otimização usando o optuna.
